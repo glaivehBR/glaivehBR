@@ -1,4 +1,4 @@
-**Olá meu nome é Glaive Helles :sparkling_heart:, eu sou um programador novato aqui no github. Gosto de livros de ação e terror, filmes, jogos e tudo o que o universo nos dá, moro em Fortaleza-CE é um prazer conhece-lo.**
+**Olá meu nome é Glaive Helles :sparkling_heart:, eu sou um programador novato aqui no github. Gosto de livros de ação e terror, filmes, jogos e tudo o que o universo nos dá. Moro em Fortaleza-CE é um prazer conhece-lo.**
 
 Atualmente estou cursando tecnico em informatica no IFCE, Campus Fortaleza.
  
