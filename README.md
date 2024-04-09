@@ -2,7 +2,7 @@
 
 Atualmente estou cursando tecnico em informatica no IFCE, Campus Fortaleza.
  
- - **Algumas coisas sobre mim:**
+- **Algumas coisas sobre mim:**
   - Idiomas:Ingles, Portugues. 
   - Linguagens de programação📚: JAVA, C, Python
   - Idade: 18
