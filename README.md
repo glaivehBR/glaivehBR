@@ -6,4 +6,4 @@ Atualmente estou cursando tecnico em informatica no IFCE, Campus Fortaleza.
   - Linguagens  de programação📚: JAVA, C, Python
   - Age/Idade: 18
   - Pronoun/Pronomes: Ele/Eles,
-  -  Gêner: Masculino. 
+  -  Gênero: Masculino. 
