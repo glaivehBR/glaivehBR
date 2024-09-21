@@ -8,6 +8,8 @@ Atualmente estou cursando tecnico em informatica no IFCE, Campus Fortaleza.
   - Pronomes: Ele/Eles,
   - Gênero: Masculino. 
 
+ <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/2c79649a-b04c-4c78-998f-c126db48305c" width="75">&nbsp;
+
 **Aplicações e dados**
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
