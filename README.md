@@ -20,3 +20,30 @@ Atualmente estou cursando tecnico em informatica no IFCE, Campus Fortaleza.
 <a href="https://github.com/glaivehBR" title="Perfil do Glaive">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glaivehBR&theme=Ocean&show_icons=true" />
 </a>
+
+<table>
+  <tr>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api?username=glaivehBR&theme=dark&hide_border=false&include_all_commits=true"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=glaivehBR&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
+    </td>
+    <td>
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=glaivehBR&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
+    </td>
+  </tr>
+</table>
