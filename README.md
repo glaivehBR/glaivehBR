@@ -18,5 +18,5 @@ Atualmente estou cursando tecnico em informatica no IFCE, Campus Fortaleza.
 <br/>
 
 <a href="https://github.com/glaivehBR" title="Perfil do Glaive">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=glaivehBR&theme=Ocean&show_icons=true" />
 </a>
